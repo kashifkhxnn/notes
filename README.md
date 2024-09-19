@@ -1,8 +1,8 @@
 # Number row characters
 
-! (Exclamation Mark)-
+! (Exclamation Mark)
 
-@ ( At the rate)-
+@ ( At the rate)
 
 /# (Hash)-
 
