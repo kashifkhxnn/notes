@@ -4,37 +4,37 @@
 
 @ ( At the rate)
 
-/# (Hash)-
+/# (Hash)
 
-$ (Dollar)-
+$ (Dollar)
 
-% (Percentage)-
+% (Percentage)
 
-& (And)-
+& (And)
 
-* (Star)-
+* (Star)
   
-( (Open Bracket)-
+( (Open Bracket)
 
-) (Closing Bracket)-
+) (Closing Bracket)
 
 
   # Links
-  [GitHub Pages](https://pages.github.com/)-
+  [GitHub Pages](https://pages.github.com/)
   
-  [GitHub Refrences](https://docs.github.com/)-
+  [GitHub Refrences](https://docs.github.com/)
   
-  [Markdown refrences](https://markdownguide.org/)-
+  [Markdown refrences](https://markdownguide.org/)
   
 
   # Experiments
   
-  😊 -- bush-
+  😊 -- bush
   
-  😙 -- kissing_closed_eyes-
+  😙 -- kissing_closed_eyes
   
-  😴 -- sleeping-
+  😴 -- sleeping
   
-  😠 -- angry-
+  😠 -- angry
   
-  😪 --sleepy-
+  😪 --sleepy
