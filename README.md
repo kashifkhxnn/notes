@@ -13,7 +13,7 @@ $ (Dollar)-
 & (And)-
 
 * (Star)-
-* 
+  
 ( (Open Bracket)-
 
 ) (Closing Bracket)-
@@ -21,13 +21,20 @@ $ (Dollar)-
 
   # Links
   [GitHub Pages](https://pages.github.com/)-
+  
   [GitHub Refrences](https://docs.github.com/)-
+  
   [Markdown refrences](https://markdownguide.org/)-
+  
 
   # Experiments
   
   😊 -- bush-
+  
   😙 -- kissing_closed_eyes-
+  
   😴 -- sleeping-
+  
   😠 -- angry-
+  
   😪 --sleepy-
