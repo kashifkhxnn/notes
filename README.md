@@ -1,13 +1,23 @@
 # Number row characters
+
 ! (Exclamation Mark)-
+
 @ ( At the rate)-
+
 /# (Hash)-
+
 $ (Dollar)-
+
 % (Percentage)-
+
 & (And)-
+
 * (Star)-
+* 
 ( (Open Bracket)-
+
 ) (Closing Bracket)-
+
 
   # Links
   [GitHub Pages](https://pages.github.com/)-
