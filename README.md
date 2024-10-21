@@ -1,4 +1,4 @@
-# Number row characters
+  # Number row characters
 
 ! (Exclamation Mark)
 
@@ -25,6 +25,8 @@ $ (Dollar)
   [GitHub Refrences](https://docs.github.com/)
   
   [Markdown refrences](https://markdownguide.org/)
+
+  [CLI commands](docs/cli.md)
   
 
   # Experiments
