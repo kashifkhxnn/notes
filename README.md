@@ -19,7 +19,7 @@ $ (Dollar)
 ) (Closing Bracket)
 
 
-  # Links
+# Links
   [GitHub Pages](https://pages.github.com/)
   
   [GitHub Refrences](https://docs.github.com/)
@@ -29,7 +29,7 @@ $ (Dollar)
   [CLI commands](docs/cli.md)
   
 
-  # Experiments
+# Experiments
   
   😊 -- bush
   
@@ -40,3 +40,16 @@ $ (Dollar)
   😠 -- angry
   
   😪 --sleepy
+
+# Keyboard shortcuts
+Shortcuts I frequently use: 
+
+- Ctrl + A = Select All
+- Ctrl + C = Copy
+- Ctrl + X = Cut 
+
+Shortcuts I would like to start using: 
+
+Ctrl + F = Search For Text
+Alt + Tab = Switch Screen/tabs
+Alt + F4 = Close App

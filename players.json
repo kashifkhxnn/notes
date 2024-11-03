@@ -1,0 +1,5 @@
+{
+    "name": "James", //string
+    "sports": "Tennis", //string
+    "team": null  //null type, no team for this player
+}
